@@ -7,4 +7,6 @@ Hello World!
 
 Here I go!
 
-
+- Lorem 
+- Ipsum
+- Dolor
