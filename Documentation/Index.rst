@@ -61,7 +61,7 @@ __ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-I
 
 Martin_ here.
 
-What's it about?
+What's it really about?
 
 #. This is your personal TYPO3 documentation starter project.
    Do with it what you like. Write a note, delete the subfolders,
