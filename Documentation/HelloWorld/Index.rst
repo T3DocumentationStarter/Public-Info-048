@@ -10,3 +10,5 @@ Here I go!
 - Lorem 
 - Ipsum
 - Dolor
+
+.. image:: demo.png
