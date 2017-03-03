@@ -254,8 +254,9 @@ __ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-I
 
 .. toctree::
    :hidden:
-
+   
+   CodeSprint/Index
    HelloWorld/Index
    Hyperlinks/Index
    reStructuredText/Index
-
+   
